@@ -1,0 +1,16 @@
+{
+  "name": "stockbot",
+  "version": "1.0.0",
+  "description": "Discord Stock bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "mongoose": "^5.11.18",
+    "node": "^15.8.0"
+  }
+}
